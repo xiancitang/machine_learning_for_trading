@@ -1,0 +1,5 @@
+	cumulative return 	standard deviation	mean
+Benchmark in sample	-0.037925	0.017451	0.000075
+Manual Strategy in sample	0.222227	0.014131	0.000497
+Benchmark out sample	-0.133735	0.008772	-0.000246
+Manual Strategy out sample	-0.080967	0.008429	-0.000132
